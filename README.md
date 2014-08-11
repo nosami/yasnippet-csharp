@@ -1,7 +1,7 @@
 yasnippet-csharp
 ================
 
-A collection of C# snippets for yasnippet
+A collection of C# snippets for yasnippet with automatic namespace and classname insertion.
 
 The following elisp snippet is required for namespace generation. (Thanks to  http://cupfullofcode.com/snippet-expansion-with-yasnippet/)
 
